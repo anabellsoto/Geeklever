@@ -1,7 +1,6 @@
-# Geeklever
+#Geeklever
 Etapa 6 PI senac 
 
-# Geeklever
 
 **Status do Projeto**: 🚧 Em desenvolvimento
 
